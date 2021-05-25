@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\wip\\MyAutomationProjects\\MyAutomationProjects.csproj": {}
+  },
+  "projects": {
+    "C:\\wip\\MyAutomationProjects\\MyAutomationProjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\wip\\MyAutomationProjects\\MyAutomationProjects.csproj",
+        "projectName": "MyAutomationProjects",
+        "projectPath": "C:\\wip\\MyAutomationProjects\\MyAutomationProjects.csproj",
+        "packagesPath": "C:\\Users\\deepa.oberoi\\.nuget\\packages\\",
+        "outputPath": "C:\\wip\\MyAutomationProjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\deepa.oberoi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[85.0.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.0.0-alpha07, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

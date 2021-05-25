@@ -1,0 +1,16 @@
+C:\wip\MyAutomationProjects\obj\Debug\netcoreapp3.1\MyAutomationProjects.csprojAssemblyReference.cache
+C:\wip\MyAutomationProjects\obj\Debug\netcoreapp3.1\MyAutomationProjects.AssemblyInfoInputs.cache
+C:\wip\MyAutomationProjects\obj\Debug\netcoreapp3.1\MyAutomationProjects.AssemblyInfo.cs
+C:\wip\MyAutomationProjects\obj\Debug\netcoreapp3.1\MyAutomationProjects.csproj.CoreCompileInputs.cache
+C:\wip\MyAutomationProjects\bin\Debug\netcoreapp3.1\MyAutomationProjects.exe
+C:\wip\MyAutomationProjects\bin\Debug\netcoreapp3.1\MyAutomationProjects.deps.json
+C:\wip\MyAutomationProjects\bin\Debug\netcoreapp3.1\MyAutomationProjects.runtimeconfig.json
+C:\wip\MyAutomationProjects\bin\Debug\netcoreapp3.1\MyAutomationProjects.runtimeconfig.dev.json
+C:\wip\MyAutomationProjects\bin\Debug\netcoreapp3.1\MyAutomationProjects.dll
+C:\wip\MyAutomationProjects\bin\Debug\netcoreapp3.1\MyAutomationProjects.pdb
+C:\wip\MyAutomationProjects\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\wip\MyAutomationProjects\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\wip\MyAutomationProjects\obj\Debug\netcoreapp3.1\MyAutomationProjects.csproj.CopyComplete
+C:\wip\MyAutomationProjects\obj\Debug\netcoreapp3.1\MyAutomationProjects.dll
+C:\wip\MyAutomationProjects\obj\Debug\netcoreapp3.1\MyAutomationProjects.pdb
+C:\wip\MyAutomationProjects\obj\Debug\netcoreapp3.1\MyAutomationProjects.genruntimeconfig.cache

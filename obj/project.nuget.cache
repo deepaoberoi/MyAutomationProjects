@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYL4t8ztCSEEVYekprmCgru0yD68BCms44gvF6jJGm/hjasqn280/VzncdL2Ms0PPe+9Zhadp9tPaLOy0zWhVA==",
+  "success": true,
+  "projectFilePath": "C:\\wip\\MyAutomationProjects\\MyAutomationProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepa.oberoi\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\deepa.oberoi\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\deepa.oberoi\\.nuget\\packages\\selenium.webdriver\\4.0.0-alpha07\\selenium.webdriver.4.0.0-alpha07.nupkg.sha512"
+  ],
+  "logs": []
+}
